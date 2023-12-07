@@ -7,7 +7,7 @@ MIST 4610 9:35-10:50 Group 9
 
 1. John Hulsey | @J-Hulsey
 
-   REPO: (https://github.com/purwplhaze/MIST4610_Proj2)
+   REPO: https://github.com/J-Hulsey/MIST_Project2
 
 3. Jack Mathison | @JackMathison
 
